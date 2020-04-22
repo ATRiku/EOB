@@ -12,6 +12,7 @@ Originally intended as a practice sand-box game to experiment, it is my first pr
 - Boss enemies added
 - UI pause screen removed
 - Menu, tutorial level, last stage same as previous build
+- sharedassets3.assets and sharedassets3.assets.reS files in Data folder too large to push 
 
 ### 2019/09/22 First Build
 - Select stage, tutorial, main stage, last stage
